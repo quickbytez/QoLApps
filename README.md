@@ -15,4 +15,4 @@ Promps a warning and let you select if redundant data is found.
 
 Made with Pycharm
 
-python 3.10 interpreter
+python 3.10 interpreter and https://huggingface.co/deepseek-ai/DeepSeek-V3 (llama2:latest ID:78e26419b446)
